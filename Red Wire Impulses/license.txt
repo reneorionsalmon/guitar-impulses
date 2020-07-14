@@ -1,0 +1,57 @@
+End User License Agreement (EULA)
+
+License agreement with Red 5 Group, LLC, doing business as Red Wire Impulses
+
+Carefully read the following legal agreement before installing the SOFTWARE.
+
+By extracting these impulse responses from the compressed ARCHIVE you are agreeing to be bound by the terms of this agreement. If you do not agree to the terms of the agreement, you should not extract the impulse files from the compressed ARCHIVE.
+
+Red 5 Group, LLC, with its principal office in New York City, NY, USA and USER intending to be legally bound, agree as follows:
+
+Definitions:
+
+In this agreement the following definitions will be in capitals. 
+
+These definitions are understood to mean:
+
+DOCUMENTATION:  User’s manual and all other written material provided by Red 5 Group, LLC, either in electronic or printed form.
+
+IMPULSE RESPONSES:  Acoustic samples for use in audio software.
+
+SOFTWARE:  DOCUMENTATION and IMPULSE RESPONSES.
+
+BACKUP:  One 1:1 copy of the SOFTWARE made according to the terms of this agreement.
+
+ARCHIVE:  The compressed file containing the SOFTWARE
+
+USER:  The rightful owner of the electronic or physical media containing the SOFTWARE and the rightful user of the SOFTWARE.
+
+The SOFTWARE accompanying this license is licensed to you by Red 5 Group under the terms of this agreement. You own any discs(s) on which the Red 5 Group SOFTWARE is recorded, but Red 5 Group retains title to the SOFTWARE and BACKUP
+
+1.  License. Red 5 Group gives the USER the right to use the enclosed SOFTWARE under the terms of this agreement. This agreement gives the USER the right to install and use the SOFTWARE on only one computer at a time. This agreement gives the USER the right to make one copy of the SOFTWARE in machine readable form for BACKUP purposes only. The BACKUP may only be used in the event that the original SOFTWARE is unusable. The BACKUP must contain all copyright notices, any other proprietary legends and signs that were in the original ARCHIVE provided by Red 5 Group. The USER may only use one authorization on only one computer at a time to run the COMPUTER PROGRAMS. The USER may only transfer the SOFTWARE to another party provided that the other party reads and agrees to accept the terms and conditions of this agreement before the transfer of the SOFTWARE. The USER may only transfer the SOFTWARE and BACKUP to one party at the same time. The USER and the party to which the SOFTWARE is transferred are both obliged to send a written notice of the transfer to Red 5 Group containing the name and address of the original USER and the party to which the SOFTWARE is transferred. The party to which the SOFTWARE is transferred will be considered USER.
+ 
+2.  Restrictions. The USER may not install or provide use of the SOFTWARE in a network. The USER may not, without written permission from Red 5 Group, reverse engineer, disassemble, decompile, modify, alter or otherwise reduce the SOFTWARE in whole or in part to a human perceivable form. The USER may not electronically transmit the SOFTWARE in whole or in part from one computer to another or over a network. The USER may not rent, lease, loan or distribute the SOFTWARE in whole or in part.
+ 
+3.  Termination. This agreement is effective until terminated. This agreement will terminate immediately if the USER fails to comply with any provision of this agreement. No prior notice from Red 5 Group of this termination is necessary. Upon termination the USER must remove the SOFTWARE from their computer. The USER may terminate this agreement by promptly giving written notice to Red 5 Group and removing the SOFTWARE from their computer. In case this agreement is terminated by Red 5 Group or the USER, the USER cannot claim any refund.
+
+4.  Export. The USER agrees and certifies that he will not export or re-export the SOFTWARE except as permitted by the laws and regulations of the United States and the law and regulations of the jurisdiction in which the USER obtained the SOFTWARE.
+
+5.  The IMPULSE RESPONSES are protected by copyright laws and international copyright treaties, as well as other intellectual property rights laws and treaties.  The IMPULSE RESPONSES accompanying this license are licensed to you by Red 5 Group under the terms of this agreement. You own any discs(s) on which the Red 5 Group IMPULSE RESPONSES are recorded, but Red 5 Group retains title to the IMPULSE RESPONSES and BACKUP.  The IMPULSE RESPONSES are licensed for use in third party computer programs. You may use the IMPULSE RESPONSES, contained in or otherwise included with the SOFTWARE, on a royalty free basis, to create your own original soundtracks for your video and audio projects. You may broadcast and/or distribute your own soundtracks that were created using the IMPULSE RESPONSES, however, individual IMPULSE RESPONSES may not be commercially or otherwise distributed on a standalone basis, nor may they be repackaged in whole or in part as audio samples, sound libraries, sound effects or music beds.
+
+6.  No other warranties. The USER expressly acknowledges and agrees that the use of the SOFTWARE is at his sole risk. The SOFTWARE is provided “AS IS” and without warranty of any kind. Red 5 Group does not warrant that the SOFTWARE is error free. RED 5 GROUP EXPRESSLY DISCLAIMS ALL OTHER WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON INFRINGEMENT OF THIRD PARTY RIGHTS WITH RESPECT TO THE SOFTWARE, ACCOMPANYING DOCUMENTATION OR ARCHIVE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES OR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSIONS MAY NOT APPLY TO THE USER. THIS WARRANTY GIVES THE USER SPECIFIC LEGAL RIGHTS AND THE USER MAY ALSO HAVE OTHER RIGHTS WHICH VARY FROM JURISDICTION TO JURISDICTION. Should the SOFTWARE prove defective, the USER (and not Red 5 Group) assume the entire cost of all necessary servicing, repair or correction.
+
+7.  Limitation of liability. In no event shall Red 5 Group be liable to the USER for any consequential, special, incidental or indirect damages of any kind arising out of the use of the Red 5 Group SOFTWARE even if Red 5 Group has been advised of the possibility of such damages. In no event will Red 5 Group’s liability for any claim, whether in contract, tort, or any other theory of liability exceed the license fee paid by the USER as evidenced by a copy of the original receipt.
+
+8.  General Provisions.
+
+	a. Assignment. The terms and provisions of this Agreement are binding and inure to the benefit of the parties to this Agreement and to the successors and assigns of Red 5 Group and the successors and permitted assigns of the USER.
+
+	b. Force Majeure. The parties will not incur liability to each other for failing to perform any obligation under this Agreement if failure results from a force majeure or any cause beyond their reasonable control.
+
+	c. Governing Law. This Agreement will in all respects be governed by United States federal law to the extent applicable and the laws of the State of New York.  USER consents to the exclusive jurisdiction of federal and state courts of New York to resolve any action arising out of or related to this Agreement.   The parties agree not to contest venue as appropriate in New York City, New York.   The parties waive any right to trial by jury.    
+
+	d. Severability. If any of the provisions of this Agreement are held to be invalid under any applicable statute or rule of law, they are, to that extent, omitted without affecting other provisions of this Agreement.
+
+	e. Waiver. The waiver of one breach or default or any delay in exercising any rights will not constitute a waiver of any subsequent breach or default by Red 5 Group.
+
+	f. Entire Agreement. This Agreement, represents the entire agreement between the parties, may only be amended by a written agreement signed by both parties, and supersedes all prior or contemporaneous oral or written agreements and understandings with respect to the matters covered by this Agreement. USER agrees that it has not entered into this Agreement based on any representations other than this Agreement.
